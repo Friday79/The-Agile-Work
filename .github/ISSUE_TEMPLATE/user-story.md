@@ -1,10 +1,10 @@
 ---
-name: User story
-about: 'This is our default user story template '
-title: User story title
+name: user story
+about: this is a default user story
+title: User Story title
 labels: ''
 assignees: ''
 
 ---
 
-In order to **receive benefit** as a **role**, I can **goal / desire**
+As a **role** i want to **capability** so that **received benefit**
